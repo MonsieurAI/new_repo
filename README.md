@@ -1,4 +1,4 @@
 # Start of the README
 
-**Adolf Hitler!***
-'yea'
+**Adolf Hitler!**
+`yea`
